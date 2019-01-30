@@ -1,2 +1,3 @@
-Premier exercice ajouté via NotePad++:
-12 + 12 = ?
+﻿Premier exercice ajouté via NotePad++:
+12 + 12 = 24
+J'ai répondu à l'exercice
